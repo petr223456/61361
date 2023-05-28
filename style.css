@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+img{
+    border: 3px solid brown;
+    padding: 5px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.link-header{
+    border: 2px solid green;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+}
